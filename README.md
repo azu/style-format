@@ -6,7 +6,7 @@ It's based on [ansi-codes](http://github.com/azer/ansi-codes) and [format-text](
 ## Install
 
 ```bash
-$ npm install style-format
+$ npm install @azu/style-format
 ```
 
 ## Usage

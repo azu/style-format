@@ -1,5 +1,5 @@
-var format = require("format-text");
-var ansi = require("ansi-codes");
+var format = require("@azu/format-text");
+var ansi = require("./ansi-codes");
 
 module.exports = styleFormat;
 

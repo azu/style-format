@@ -1,5 +1,5 @@
 {
-  "name": "style-format",
+  "name": "@azu/style-format",
   "version": "0.0.0",
   "description": "Library to easily style texts with string formatting",
   "main": "index.js",
@@ -7,8 +7,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "ansi-codes": "*",
-    "format-text": "*"
+    "@azu/format-text": "^1.0.1"
   },
   "keywords": [
     "style",
@@ -16,7 +15,7 @@
     "format"
   ],
   "repository": {
-    "url": "git@github.com:azer\/style-format.git",
+    "url": "git@github.com:azu/style-format.git",
     "type": "git"
   },
   "author": "azer",
